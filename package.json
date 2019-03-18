@@ -24,6 +24,13 @@
         "filter": [
           "**/*"
         ]
+      },
+      {
+        "from": "vendor/bin/win",
+        "to": "Resources/bin",
+        "filter": [
+          "**/*"
+        ]
       }
     ],
     "dmg": {
